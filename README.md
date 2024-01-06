@@ -1,2 +1,3 @@
 # startup-of-the-year
- test website
+Starter project!
+*visist https://zerotomastery.io/ for more*
